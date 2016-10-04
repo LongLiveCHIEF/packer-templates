@@ -18,6 +18,9 @@
       }
     }
   ],
+  "push": {
+	"name": "LongLiveCHIEF/minimal-centos-7"
+  },
   "post-processors": [[
     {
       "type": "vagrant",
